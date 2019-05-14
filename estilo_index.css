@@ -1,0 +1,183 @@
+.imagenheader {
+  width: 150px;
+  border: 0%;
+  margin-top: -10%;
+  padding: 0%;
+}
+.img-responsive{
+width:100%;
+}
+.carousel-inner{
+  width:100%;
+}
+body{
+  background-color: rgb(69, 69, 69);
+  margin: 0;
+  padding: 0;
+  border: 0;
+  height: 100%;
+}
+
+a{
+    font-size: 1.1em;
+}
+.btn-primary{
+    background-color: rgb(75, 75, 75);
+    border-color: rgb(0, 0, 0);
+}
+.btn-default{
+    background-color: #337ab7;
+    color: #fff;
+}
+.btn-info{
+    border-color: transparent;
+    background-color: rgb(211, 211, 211);
+    color: #000;
+}
+.btn-info:hover{
+    border-color: transparent;
+    background-color: rgb(111, 111, 111);
+    color: #fff;
+}
+.color_fb{
+  color: rgb(59, 89, 152);
+}
+.color_fb:hover{
+  color: rgb(59, 89, 152);
+}
+.color_tt{
+  color: rgb( 0, 172, 237);
+}
+.color_tt:hover{
+}
+.glyphicon-globe{
+  color: rgb(236, 120, 63);
+}
+.glyphicon-user{
+    color: rgb(0, 48, 255);
+}
+.glyphicon-shopping-cart{
+    color: rgb(79, 232, 99);
+}
+
+.glyphicon-list-alt{
+  color: rgb(57, 171, 235);
+}
+.glyphicon-info-sign{
+  color: rgb(218, 26, 46);
+}
+
+.glyphicon-edit{
+    color: rgb(0, 255, 186);
+}
+
+.glyphicon-envelope{
+  color:rgb(33, 198, 30);
+}
+
+.glyphicon-usd{
+    color:rgb(17, 102, 0);
+}
+.cli{
+    color:rgb(0, 255, 247);
+}
+
+li>a:hover{
+    font-size: 1.2em;
+    background-color: rgba(0, 0, 0, 0);
+}
+.copy{
+  color: rgb(255, 255, 255);
+}
+.registro{
+  background-color: rgb(255, 255, 255);
+}
+
+.fondo{
+  background-color: rgb(255, 255, 255);
+  margin-top: 3%;
+  width: 100%;
+  padding: 3%;
+  height: auto;
+}
+
+.perfil{
+    background-color: rgb(210, 210, 210);
+}
+
+.btn-group-vertical{
+    width: 100%;
+}
+
+.panel{
+    background-color: rgb(158, 158, 158);
+    min-height: 10%;
+}
+
+.panel-default{
+    height: 30%;
+}
+
+.historia{
+    background-color: rgb(85, 85, 85);
+    padding: 2%;
+}
+.slidepanel{
+  background-color: rgb(255, 255, 255);
+  z-index:1050;
+}
+.divslide{
+  background-color: black;
+  height: 10%;
+}
+.glyphicon-chevron-right{
+  color: rgb(255, 255, 255);
+  font-size: 1.5em;
+}
+.butom-car{
+  height: 10%;
+  position: fixed;
+  bottom: 5%;
+  border-top-style: solid;
+  border-color: rgb(207, 207, 207);
+  border-top-width: thin;
+}
+.pre-scrollable{
+  width: 100%;
+  max-height: 86%;
+  padding-top: 5%;
+}
+.border-image{
+  border-bottom-style: solid;
+  border-color: rgb(207, 207, 207);
+  border-bottom-width: thin;
+}
+.media-object{
+  width: 250px;
+}
+
+::-webkit-scrollbar{
+  width: 10px;
+  background-color: rgb(255, 255, 255);
+}
+::-webkit-scrollbar-button{
+  height: 100%;
+}
+::-webkit-scrollbar-track{
+  background-color: rgb(251, 251, 251);
+  -webkit-box-shadow: inset 0 0 6px rgba(61, 61, 61, 0.3);
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb{
+  background-color: rgb(102, 102, 102);
+  border:thin solid ;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover{
+    background: -webkit-linear-gradient(top, #4ca06d, #5aafb0);
+}
+::-webkit-scrollbar-thumb:window-inactive {
+  background: rgba(255, 255, 255, 0.6);
+}
